@@ -33,3 +33,7 @@ footer {
     background-color: burlywood;
     color: white;
 }
+
+.footer-form .parent {
+    justify-content: space-evenly;
+}

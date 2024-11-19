@@ -1,0 +1,18 @@
+.back-to-top {
+    position: fixed;
+    bottom: 20px; 
+    right: 20px; 
+    background-color: rgb(221, 189, 147); 
+    color: white; 
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: none;
+}
+
+
+.back-to-top:hover {
+    background-color: burlywood;
+}
